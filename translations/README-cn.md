@@ -341,7 +341,7 @@
 
 ### Python
 
-- [ ] [Python数据结构和算法](https://www.amazon.com/Structures-Algorithms-Python-Michael-Goodrich/dp/1118290275/)
+- [X] [Python数据结构和算法](https://www.amazon.com/Structures-Algorithms-Python-Michael-Goodrich/dp/1118290275/)
     - 作者：Goodrich、Tamassia、Goldwasser
     - 我非常喜爱这本书，它包含了所有东西
     - 很 Python 的代码
